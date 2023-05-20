@@ -1,13 +1,13 @@
 {
-  "name": "سورس سيثون كرستال- 𝐒𝐎𝐔𝐑𝐂𝐄 •𝐒𝐘𝐓𝐇𝐎𝐍 •𝐂𝐑𝐘𝐒𝐓𝐀𝐋",
+  "name": "سورس كيبثون - KEPTHON USERBOT",
   "description": "اللهم صلي وسلم وبارك على سيدنا محمد",
-  "logo": "https://telegra.ph/file/1488d38c8157537b9213f.jpg",
+  "logo": "https://t.me/Kepthon/304",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/NO1BROS/NO1BROS",
+  "repository": "https://github.com/darmy71/kepthon",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
